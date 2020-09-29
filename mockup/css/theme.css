@@ -990,7 +990,7 @@ section.welcome-part{
 
 section.contact-part{
     color: #ffffff;
-    background-color: #00743F;
+    background-color: #1E2087;
 }
 
 ::-webkit-input-placeholder {
@@ -1407,6 +1407,10 @@ input[type="number"] {
 
 .icon-dark {
     background: url('../images/pattern-dark.png') no-repeat center center;
+}
+
+.icon-green {
+    background: url('../images/pattern-green.png') no-repeat center center;
 }
 
 .banner-bg {
@@ -1986,7 +1990,7 @@ textarea {
     float: left;
     width: auto;
     font-size: 15px;
-    margin-right: 25px;
+    margin-right: 5px;
     position: relative;
 }
 
@@ -2285,7 +2289,7 @@ textarea {
 }
 
 .menu-icon a span {
-    background: #ffffff none repeat scroll 0 0;
+    background: #222222 none repeat scroll 0 0;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     -ms-border-radius: 3px;
@@ -2344,7 +2348,7 @@ textarea {
 
 .menu-icon a.open span:after {
     width: 100%;
-    background: #ffffff;
+    background: #222222;
 }
 
 .menu-icon a.open .bar-1 {
@@ -2754,7 +2758,7 @@ textarea {
 }
 
 .tp-caption span {
-    color: #e4b95b;
+    color: #EA470A;
 }
 
 .tp-caption i {
@@ -3356,6 +3360,14 @@ textarea {
     position: relative;
     width: 100%;
     float: left;
+}
+
+.blog-right-listing .feature-img img{    
+    height: 400px;
+} 
+
+.item .feature-img img{    
+    height: 240px;
 }
 
 .feature-blog .item,
@@ -4799,7 +4811,7 @@ textarea {
 
 .breadcrumb-inner h2,
 .breadcrumb-inner h3 {
-    color: #ffffff;
+    color: #FFF100;
     margin-bottom: 7px;
     text-transform: uppercase;
 }
@@ -7012,6 +7024,7 @@ table.shop-cart-table .shop-cart-close {
 
 .contact-map {
     padding: 0px;
+    background-color: #1E2087;
 }
 
 
