@@ -58,4 +58,24 @@ section.highlight-top-part{
     color: #C31925;
 } 
 
+.service-record.highlight-single{
+    background-color: #1E2087;
+}
+
+.service-record.highlight-single .container .build-title h2{
+    color: #ffffff;
+}
+
+.service-record.highlight-single .container .build-title h6{
+    color: #ffffff;
+}
+
+.service-record.highlight-single .container .service-port-outer{
+    color: #ffffff;
+}
+
+
+.service-port-next.highlight-single h5{
+    color: #FFF100;
+} 
 

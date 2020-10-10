@@ -2062,7 +2062,7 @@ textarea {
 
 .menu-main ul>li.mega-menu:hover>a:before {
     position: absolute;
-    border-bottom: 12px dashed #ffffff;
+    border-bottom: 12px dashed #1b1b29;
     border-left: 12px solid transparent;
     border-right: 12px solid transparent;
     position: absolute;
@@ -2075,7 +2075,7 @@ textarea {
 
 .menu-main li.mega-menu .drop-nav {
     min-width: 200px;
-    background: #ffffff;
+    background: #1b1b29;
     padding: 40px;
     width: auto;
     position: absolute;
@@ -2148,7 +2148,7 @@ textarea {
 }
 
 .menu-main li .drop-nav li a {
-    color: #ffffff;
+    color: #1b1b29;
 }
 
 .menu-main li.mega-menu .drop-nav li {
@@ -2204,8 +2204,8 @@ textarea {
     position: absolute;
     left: 0px;
     top: 100%;
-    color: #372727;
-    background: #e4b95b;
+    color: #1b1b29;
+    background: #FFF100;
     z-index: 99;
     padding: 25px 0px 25px 0px;
     font-size: 15px;
