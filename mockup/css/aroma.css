@@ -3,32 +3,44 @@
 }
 
 .home-highlight-top{
-    padding: 0px 0px 0px 0px;
+    padding: 20px 0px 0px 0px;
 }
 
 .home-highlight-top figure{
     width: 100%;
 }
 
+.home-highlight-top figure img{
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+    width: 90%;
+}
+
 .home-highlight-top div{
+    display: block;
+    margin: auto;
     height: 100px;
+    width: 90%;
 }
 
 .home-highlight-top div p {
+    padding-left: 15px;
+    padding-right: 15px;
     text-align: center;
 }
 
-/* .home-highlight-top figure img {
+.home-highlight-top figure img {
 	-webkit-transform: scale(1);
 	transform: scale(1);
 	-webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
-    width: 100%;
+    width: 90%;
 }
 .home-highlight-top figure:hover img {
-	-webkit-transform: scale(1.3);
-	transform: scale(1.3);
-} */
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
 
 section.highlight-top-part{
     padding-top: 0px;
