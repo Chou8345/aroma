@@ -203,6 +203,14 @@ a.checkout {
     color: #ffffff;
 }
 
+.special-menu.highlight-menu .container .build-title h2 {
+    color: #e4b95b;
+}
+
+.special-menu.highlight-menu .container .build-title h6 {
+    color: #e4b95b;
+}
+
 .contact-part .container .title h2 {
     color: #FFF100;
 }
