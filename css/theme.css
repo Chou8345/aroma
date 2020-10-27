@@ -3061,7 +3061,7 @@ textarea {
 }
 
 .menu-list h5 span {
-    color: #e4b95b;
+    color: #20202f;
     position: absolute;
     right: 0;
     top: 0;
@@ -4939,6 +4939,7 @@ textarea {
     -ms-border-radius: 17px 17px 0px 0px;
     -o-border-radius: 17px 17px 0px 0px;
     border-radius: 17px 17px 0px 0px;
+    max-height: 100%;
 }
 
 .menu-round-info {

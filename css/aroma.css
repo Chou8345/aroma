@@ -226,3 +226,54 @@ a.checkout {
 .contact-part .container .row * h5 {
     color: #e4b95b;
 }
+
+
+.menu-round.highlight {
+    background:transparent;
+    text-align: center;
+}
+
+/* .menu-round-img.highlight {
+    float: ;
+    width: 100%;
+    height: 220px;
+    -webkit-border-radius: 17px 17px 0px 0px;
+    -moz-border-radius: 17px 17px 0px 0px;
+    -ms-border-radius: 17px 17px 0px 0px;
+    -o-border-radius: 17px 17px 0px 0px;
+    border-radius: 17px 17px 0px 0px;
+} */
+
+.menu-round-img.highlight img {
+    max-height: 100%;
+}
+/* 
+.menu-round-info.highlight {
+    float: left;
+    width: 100%;
+    -webkit-border-radius: 0px 0px 17px 17px;
+    -moz-border-radius: 0px 0px 17px 17px;
+    -ms-border-radius: 0px 0px 17px 17px;
+    -o-border-radius: 0px 0px 17px 17px;
+    border-radius: 0px 0px 17px 17px;
+    padding: 24px 30px;
+} */
+
+.menu-round-info.highlight h5 {
+    padding-right: 0;
+    color: #20202f;
+}
+
+.menu-round-info.highlight h5 span {
+    color: #20202f;
+}
+
+.menu-round-info.highlight p {
+    margin: 0px;
+    position: relative;
+    color: #20202f;
+}
+
+.menu-list a{
+    color: #20202f;
+}
