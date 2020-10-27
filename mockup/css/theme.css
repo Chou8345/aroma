@@ -1431,37 +1431,7 @@ body main .txt-default {
     color: #e2dadd;
 }
 
-.welcome-part .container .build-title h2 {
-    color: #FFF100;
-}
 
-.welcome-part .container .build-title h6 {
-    color: #FFF100;
-}
-
-.special-menu .container .build-title h2 {
-    color: #ffffff;
-}
-
-.special-menu .container .build-title h6 {
-    color: #ffffff;
-}
-
-.contact-part .container .title h2 {
-    color: #FFF100;
-}
-
-.contact-part .container .title h6 {
-    color: #FFF100;
-}
-
-.contact-part .container .row * label{
-    color: #ffffff;
-}
-
-.contact-part .container .row * h5{
-    color: #e4b95b;
-}
 
 .invert-black h1,
 .invert-black h2,
@@ -1485,7 +1455,9 @@ body main .bg-dyellow {
     background-color: #FAB629;
 }
 
-
+body main .bg-blue {
+    background-color: #1E2087;
+}
 
 /* Reset Classes For Whole Site */
 
@@ -7024,7 +6996,8 @@ table.shop-cart-table .shop-cart-close {
 
 .contact-map {
     padding: 0px;
-    background-color: #1E2087;
+    height: 450px;
+    /* background-color: #1E2087; */
 }
 
 
