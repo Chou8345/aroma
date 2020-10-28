@@ -232,7 +232,7 @@
     }
 
     .header-expert .menu-main li a {
-        color: #ffffff;
+        color: #1b1b29;
     }
 
     .menu-main.open {
@@ -241,7 +241,7 @@
 
     .menu-main li .drop-nav li a,
     .menu-main li.mega-menu .drop-nav li a {
-        color: #ffffff;
+        color: #1b1b29;
     }
 
     .menu-main li {
@@ -277,7 +277,7 @@
         padding: 14px 15px;
         font-size: 24px;
         cursor: pointer;
-        color: #ffffff;
+        color: #1b1b29;
     }
 
     .drop-has-child>a::after {

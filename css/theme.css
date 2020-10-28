@@ -2233,7 +2233,7 @@ textarea {
 
 .menu-main ul>li.has-child:hover>a:after {
     position: absolute;
-    border-bottom: 12px dashed #e4b95b;
+    border-bottom: 12px dashed #FFF100;
     border-left: 12px solid transparent;
     border-right: 12px solid transparent;
     position: absolute;
